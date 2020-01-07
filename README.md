@@ -14,10 +14,6 @@ That was a team project created during my education in Codecool (at the beginnin
 ## Used technology:
 * Python
 
-## Team members:
-* https://github.com/KaliWWa
-* https://github.com/magg666
-
 ## Screenshots:
 All questions:
 ![alt text](https://github.com/KacperMitkowski/Ask-Mate/blob/master/screenshots/ask_mate_1.png)
