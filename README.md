@@ -16,6 +16,6 @@ That was a team project created during my education in Codecool (at the beginnin
 
 ## Screenshots:
 All questions:
-![alt text](https://github.com/KacperMitkowski/Ask-Mate/blob/master/screenshots/bat_1.png)<br />
-![alt text](https://github.com/KacperMitkowski/Ask-Mate/blob/master/screenshots/bat_2.png)
+![alt text](https://github.com/KacperMitkowski/BattleShip/blob/master/screenshots/bat_1.png)<br />
+![alt text](https://github.com/KacperMitkowski/BattleShip/blob/master/screenshots/bat_2.png)
 
